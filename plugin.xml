@@ -14,9 +14,11 @@
 
     <author>Rahul Pandey</author>
 
+    <!--
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
+    -->
 
     <js-module name="CameraPictureBackground" src="www/CameraPictureBackground.js">
         <clobbers target="window.plugins.CameraPictureBackground" />
